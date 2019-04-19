@@ -1,7 +1,9 @@
 # Deforestation Dashboard With Time Series Forecast
 
 ## Completed Product
+https://focused-edison-779938.netlify.com/world/2020
 <img src="https://github.com/extrajp2014/DeforestationPrediction/blob/master/3.png">
+
 
 Proposal
 
