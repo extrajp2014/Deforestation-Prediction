@@ -45,7 +45,7 @@ For Data Scientists
 
 - Describe the Established data source with at least rough data able to be provided on day 1. 
 
-https://github.com/manjulamishra/Deforestation
+	* https://github.com/manjulamishra/Deforestation
 
 - You can gather information about the data set you’ll be working with from the project description. Be sure to collaborate with your PM, and your Backend Architect to chat about the resources you have.
 
